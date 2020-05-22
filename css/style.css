@@ -1,0 +1,37 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+  background-color: cornsilk;
+  width: 40%;
+}
+.rgb__itens {
+  display: flex;
+  flex-direction: column;
+}
+#red {
+  margin-left: 30px;
+}
+#green {
+  margin-left: 16px;
+}
+#blue {
+  margin-left: 28px;
+}
+
+#valueRed,
+#valueGreen,
+#valueBlue {
+  width: 40px;
+  margin-bottom: 10px;
+}
+.color_square {
+  margin-left: 100px;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 0px;
+}
+p {
+  margin-top: 0px;
+  margin-left: 125px;
+}
